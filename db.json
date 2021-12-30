@@ -1,6 +1,6 @@
 {
-  "tracks": 
-  "data" [
+  "tracks":{ 
+  "data": [
   {
 "id": 112528212,
 "title": "Power",
@@ -30,4 +30,5 @@
 }
 }
 ]
+}
 }
