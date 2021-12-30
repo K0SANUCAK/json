@@ -1,35 +1,11 @@
 {
-  "tracks":{ 
-  "data": [
+"results": [
   {
-"id": 112528212,
-"title": "Power",
-"link": "https://www.deezer.com/album/112528212",
-"cover": "https://api.deezer.com/album/112528212/image",
-"cover_small": "https://e-cdns-images.dzcdn.net/images/cover/89d1930a1a821ba7e5e023227a1c486c/56x56-000000-80-0-0.jpg",
-"cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/89d1930a1a821ba7e5e023227a1c486c/250x250-000000-80-0-0.jpg",
-"cover_big": "https://e-cdns-images.dzcdn.net/images/cover/89d1930a1a821ba7e5e023227a1c486c/500x500-000000-80-0-0.jpg",
-"cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/89d1930a1a821ba7e5e023227a1c486c/1000x1000-000000-80-0-0.jpg",
-"md5_image": "89d1930a1a821ba7e5e023227a1c486c",
-"record_type": "album",
-"tracklist": "https://api.deezer.com/album/112528212/tracks",
-"explicit_lyrics": false,
-"position": 8,
-"artist": {
-"id": 11407562,
-"name": "Amanda Black",
-"link": "https://www.deezer.com/artist/11407562",
-"picture": "https://api.deezer.com/artist/11407562/image",
-"picture_small": "https://e-cdns-images.dzcdn.net/images/artist/48df10a4cbd82302173302c7ba5e4c86/56x56-000000-80-0-0.jpg",
-"picture_medium": "https://e-cdns-images.dzcdn.net/images/artist/48df10a4cbd82302173302c7ba5e4c86/250x250-000000-80-0-0.jpg",
-"picture_big": "https://e-cdns-images.dzcdn.net/images/artist/48df10a4cbd82302173302c7ba5e4c86/500x500-000000-80-0-0.jpg",
-"picture_xl": "https://e-cdns-images.dzcdn.net/images/artist/48df10a4cbd82302173302c7ba5e4c86/1000x1000-000000-80-0-0.jpg",
-"radio": true,
-"tracklist": "https://api.deezer.com/artist/11407562/top?limit=50",
-"type": "artist"
-}
-}
-],
-"pages": "20"
-}
+    "id": 30634,
+    "title": "Organize İşler",
+    "overview": "A struggling, suicidal young comedian meets a car thief who is willing to teach him a few things about his profession.",
+    "backdrop_path": "/gnyZRWAwdGloChFlJ7OA2YSxt7f.jpg",
+    "poster_path": "/8SbZagV8QR4gPV3bF63yfaRYm4T.jpg"
+  }
+]
 }
