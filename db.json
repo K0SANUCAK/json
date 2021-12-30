@@ -1,4 +1,7 @@
 {
+  "tracks": 
+  "data" [
+  {
 "id": 112528212,
 "title": "Power",
 "link": "https://www.deezer.com/album/112528212",
@@ -25,4 +28,6 @@
 "tracklist": "https://api.deezer.com/artist/11407562/top?limit=50",
 "type": "artist"
 }
+}
+]
 }
