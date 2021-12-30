@@ -24,6 +24,5 @@
 "radio": true,
 "tracklist": "https://api.deezer.com/artist/11407562/top?limit=50",
 "type": "artist"
-},
-"type": "album"
+}
 }
